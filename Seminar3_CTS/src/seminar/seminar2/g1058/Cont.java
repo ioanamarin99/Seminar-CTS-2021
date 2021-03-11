@@ -71,7 +71,7 @@ public abstract class Cont {
 
     @Override
     public String toString() {
-        //return "Cont{" + titular +"," + dataDeschidere +"," + moneda +
-               // "," + valoare + "," + dobanda + "," + sucursala +'}';
+        return "Cont{" + titular +"," + dataDeschidere +"," + moneda +
+                "," + valoare + "," + dobanda + "," + sucursala +'}';
     }
 }
